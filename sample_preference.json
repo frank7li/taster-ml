@@ -1,0 +1,472 @@
+{
+    "restaurants": [
+        {
+            "name": "McDonald's",
+            "price": 1,
+            "healthiness": 1,
+            "type": "Burger"
+        },
+        {
+            "name": "Chipotle",
+            "price": 2,
+            "healthiness": 3,
+            "type": "Mexican"
+        },
+        {
+            "name": "Olive Garden",
+            "price": 3,
+            "healthiness": 2,
+            "type": "Italian"
+        },
+        {
+            "name": "Subway",
+            "price": 1,
+            "healthiness": 3,
+            "type": "Sandwich"
+        },
+        {
+            "name": "Cheesecake Factory",
+            "price": 3,
+            "healthiness": 2,
+            "type": "American"
+        },
+        {
+            "name": "Panda Express",
+            "price": 1,
+            "healthiness": 2,
+            "type": "Chinese"
+        },
+        {
+            "name": "Panera Bread",
+            "price": 2,
+            "healthiness": 4,
+            "type": "Bakery"
+        },
+        {
+            "name": "Texas Roadhouse",
+            "price": 3,
+            "healthiness": 2,
+            "type": "Steakhouse"
+        },
+        {
+            "name": "Shake Shack",
+            "price": 2,
+            "healthiness": 2,
+            "type": "Burger"
+        },
+        {
+            "name": "Sweetgreen",
+            "price": 2,
+            "healthiness": 5,
+            "type": "Salad"
+        },
+        {
+            "name": "Red Lobster",
+            "price": 3,
+            "healthiness": 3,
+            "type": "Seafood"
+        },
+        {
+            "name": "In-N-Out Burger",
+            "price": 1,
+            "healthiness": 2,
+            "type": "Burger"
+        },
+        {
+            "name": "Chick-fil-A",
+            "price": 1,
+            "healthiness": 3,
+            "type": "Chicken"
+        },
+        {
+            "name": "PF Chang's",
+            "price": 3,
+            "healthiness": 3,
+            "type": "Asian Fusion"
+        },
+        {
+            "name": "Nando's",
+            "price": 3,
+            "healthiness": 3,
+            "type": "Portuguese"
+        },
+        {
+            "name": "Zoe's Kitchen",
+            "price": 2,
+            "healthiness": 4,
+            "type": "Mediterranean"
+        },
+        {
+            "name": "Buffalo Wild Wings",
+            "price": 2,
+            "healthiness": 2,
+            "type": "Wings"
+        },
+        {
+            "name": "Outback Steakhouse",
+            "price": 3,
+            "healthiness": 2,
+            "type": "Steakhouse"
+        },
+        {
+            "name": "Domino's Pizza",
+            "price": 1,
+            "healthiness": 1,
+            "type": "Pizza"
+        },
+        {
+            "name": "Sushi Train",
+            "price": 3,
+            "healthiness": 2,
+            "type": "Japanese"
+        },
+        {
+            "name": "Nobu",
+            "price": 5,
+            "healthiness": 4,
+            "type": "Japanese"
+        },
+        {
+            "name": "Whole Foods Market",
+            "price": 4,
+            "healthiness": 5,
+            "type": "Healthy"
+        },
+        {
+            "name": "True Food Kitchen",
+            "price": 4,
+            "healthiness": 5,
+            "type": "Healthy"
+        },
+        {
+            "name": "Ruth's Chris Steak House",
+            "price": 5,
+            "healthiness": 3,
+            "type": "Steakhouse"
+        },
+        {
+            "name": "Seasons 52",
+            "price": 4,
+            "healthiness": 5,
+            "type": "American"
+        }
+    ],
+    "users":[
+            {
+                "name": "Alice Johnson",
+                "price": 3,
+                "healthiness": 4,
+                "type": ["Italian", "Mediterranean", "Salad", "Bakery", "Steakhouse"]
+            },
+            {
+                "name": "Bob Smith",
+                "price": 2,
+                "healthiness": 2,
+                "type": ["Burger", "American", "Steakhouse", "Pizza", "Seafood"]
+            },
+            {
+                "name": "Carol Davis",
+                "price": 4,
+                "healthiness": 5,
+                "type": ["Healthy", "Healthy", "Salad", "Mediterranean"]
+            },
+            {
+                "name": "David Martinez",
+                "price": 1,
+                "healthiness": 1,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Emily Garcia",
+                "price": 3,
+                "healthiness": 3,
+                "type": ["Mexican", "Italian", "Seafood", "Asian Fusion", "American"]
+            },
+            {
+                "name": "Franklin Moore",
+                "price": 5,
+                "healthiness": 4,
+                "type": ["Japanese", "Healthy", "Seafood", "Steakhouse", "Mediterranean"]
+            },
+            {
+                "name": "Grace Lee",
+                "price": 2,
+                "healthiness": 3,
+                "type": ["Salad", "Bakery", "Sandwich", "Burger", "Pizza"]
+            },
+            {
+                "name": "Henry Kim",
+                "price": 4,
+                "healthiness": 2,
+                "type": ["Steakhouse", "Burger", "American", "Seafood", "Wings"]
+            },
+            {
+                "name": "Isabella Brown",
+                "price": 2,
+                "healthiness": 4,
+                "type": ["Salad", "Bakery", "Healthy", "Mediterranean", "Organic/Healthy"]
+            },
+            {
+                "name": "James Wilson",
+                "price": 1,
+                "healthiness": 2,
+                "type": ["Burger", "Pizza", "Chicken", "Sandwich", "Wings"]
+            },
+            {
+                "name": "Katherine Miller",
+                "price": 3,
+                "healthiness": 3,
+                "type": ["Italian", "Mexican", "Chinese", "Steakhouse", "American"]
+            },
+            {
+                "name": "Liam Thompson",
+                "price": 2,
+                "healthiness": 1,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Mia Hernandez",
+                "price": 4,
+                "healthiness": 5,
+                "type": ["Salad", "Healthy", "Healthy", "Mediterranean", "American"]
+            },
+            {
+                "name": "Noah Jones",
+                "price": 1,
+                "healthiness": 2,
+                "type": ["Burger", "Sandwich", "Pizza", "Chicken", "Wings"]
+            },
+            {
+                "name": "Olivia Anderson",
+                "price": 3,
+                "healthiness": 4,
+                "type": ["Salad", "Mediterranean", "Bakery", "Italian", "Seafood"]
+            },
+            {
+                "name": "Paul Martinez",
+                "price": 2,
+                "healthiness": 3,
+                "type": ["Mexican", "Italian", "Seafood", "Asian Fusion", "American"]
+            },
+            {
+                "name": "Quinn Scott",
+                "price": 4,
+                "healthiness": 5,
+                "type": ["Healthy", "Healthy", "Salad", "Mediterranean"]
+            },
+            {
+                "name": "Rachel Clark",
+                "price": 3,
+                "healthiness": 3,
+                "type": ["Steakhouse", "Burger", "American", "Seafood", "Wings"]
+            },
+            {
+                "name": "Samuel Lewis",
+                "price": 1,
+                "healthiness": 2,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Thomas White",
+                "price": 2,
+                "healthiness": 3,
+                "type": ["Mexican", "Italian", "Seafood", "Asian Fusion", "American"]
+            },
+            {
+                "name": "Ursula King",
+                "price": 4,
+                "healthiness": 5,
+                "type": ["Healthy", "Healthy", "Salad", "Mediterranean"]
+            },
+            {
+                "name": "Victor Hall",
+                "price": 3,
+                "healthiness": 2,
+                "type": ["Steakhouse", "Burger", "American", "Seafood", "Wings"]
+            },
+            {
+                "name": "Wendy Lopez",
+                "price": 2,
+                "healthiness": 3,
+                "type": ["Mexican", "Italian", "Seafood", "Asian Fusion", "American"]
+            },
+            {
+                "name": "Xander Allen",
+                "price": 1,
+                "healthiness": 1,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Yara Young",
+                "price": 4,
+                "healthiness": 5,
+                "type": ["Healthy", "Healthy", "Salad", "Mediterranean"]
+            },
+            {
+                "name": "Zachary Harris",
+                "price": 2,
+                "healthiness": 3,
+                "type": ["Mexican", "Italian", "Seafood", "Asian Fusion", "American"]
+            },
+            {
+                "name": "Alex Morgan",
+                "price": 3,
+                "healthiness": 3,
+                "type": ["Steakhouse", "Burger", "American", "Seafood", "Wings"]
+            },
+            {
+                "name": "Bethany Carter",
+                "price": 4,
+                "healthiness": 5,
+                "type": ["Healthy", "Healthy", "Salad", "Mediterranean", "American"]
+            },
+            {
+                "name": "Caleb Mitchell",
+                "price": 2,
+                "healthiness": 2,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Diana Rivera",
+                "price": 1,
+                "healthiness": 1,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Ethan Martinez",
+                "price": 3,
+                "healthiness": 4,
+                "type": ["Salad", "Bakery", "Healthy", "Mediterranean", "Healthy"]
+            },
+            {
+                "name": "Fiona Brooks",
+                "price": 2,
+                "healthiness": 3,
+                "type": ["Mexican", "Italian", "Seafood", "Asian Fusion", "American"]
+            },
+            {
+                "name": "George Reed",
+                "price": 1,
+                "healthiness": 2,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Hannah Bell",
+                "price": 4,
+                "healthiness": 5,
+                "type": ["Healthy", "Healthy", "Salad", "Mediterranean", "American"]
+            },
+            {
+                "name": "Isaac Rogers",
+                "price": 3,
+                "healthiness": 2,
+                "type": ["Steakhouse", "Burger", "American", "Seafood", "Wings"]
+            },
+            {
+                "name": "Jasmine Murphy",
+                "price": 2,
+                "healthiness": 3,
+                "type": ["Mexican", "Italian", "Seafood", "Asian Fusion", "American"]
+            },
+            {
+                "name": "Kevin Kelly",
+                "price": 1,
+                "healthiness": 1,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Laura Bailey",
+                "price": 4,
+                "healthiness": 5,
+                "type": ["Healthy", "Healthy", "Salad", "Mediterranean"]
+            },
+            {
+                "name": "Matthew Wood",
+                "price": 3,
+                "healthiness": 3,
+                "type": ["Steakhouse", "Burger", "American", "Seafood", "Wings"]
+            },
+            {
+                "name": "Natalie Cooper",
+                "price": 2,
+                "healthiness": 2,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Oscar Hughes",
+                "price": 1,
+                "healthiness": 1,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Patricia Flores",
+                "price": 3,
+                "healthiness": 4,
+                "type": ["Salad", "Bakery", "Healthy", "Mediterranean"]
+            },
+            {
+                "name": "Quincy Cox",
+                "price": 2,
+                "healthiness": 3,
+                "type": ["Mexican", "Italian", "Seafood", "Asian Fusion", "American"]
+            },
+            {
+                "name": "Rachel Diaz",
+                "price": 1,
+                "healthiness": 2,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Steven Butler",
+                "price": 4,
+                "healthiness": 5,
+                "type": ["Healthy", "Salad", "Mediterranean"]
+            },
+            {
+                "name": "Tina Peterson",
+                "price": 3,
+                "healthiness": 2,
+                "type": ["Steakhouse", "Burger", "American", "Seafood", "Wings"]
+            },
+            {
+                "name": "Ulysses Green",
+                "price": 2,
+                "healthiness": 3,
+                "type": ["Mexican", "Italian", "Seafood", "Asian Fusion", "American"]
+            },
+            {
+                "name": "Vanessa Baker",
+                "price": 1,
+                "healthiness": 1,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "William Turner",
+                "price": 3,
+                "healthiness": 4,
+                "type": ["Salad", "Bakery", "Healthy", "Mediterranean", "Healthy"]
+            },
+            {
+                "name": "Xavier Scott",
+                "price": 2,
+                "healthiness": 3,
+                "type": ["Mexican", "Italian", "Seafood", "Asian Fusion", "American"]
+            },
+            {
+                "name": "Yvonne Evans",
+                "price": 1,
+                "healthiness": 2,
+                "type": ["Burger", "Pizza", "Sandwich", "Chicken", "Wings"]
+            },
+            {
+                "name": "Zara Adams",
+                "price": 4,
+                "healthiness": 5,
+                "type": ["Healthy", "Healthy", "Salad", "Mediterranean", "American"]
+            }
+        
+
+    ]
+
+    
+}

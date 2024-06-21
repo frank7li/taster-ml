@@ -1,0 +1,129 @@
+{
+    "restaurants": {
+        "McDonald's": {
+            "price": 1,
+            "healthiness": 1,
+            "type": "Burger"
+        },
+        "Chipotle": {
+            "price": 2,
+            "healthiness": 3,
+            "type": "Mexican"
+        },
+        "Olive Garden": {
+            "price": 3,
+            "healthiness": 2,
+            "type": "Italian"
+        },
+        "Subway": {
+            "price": 1,
+            "healthiness": 3,
+            "type": "Sandwich"
+        },
+        "Cheesecake Factory": {
+            "price": 3,
+            "healthiness": 2,
+            "type": "American"
+        },
+        "Panda Express": {
+            "price": 1,
+            "healthiness": 2,
+            "type": "Chinese"
+        },
+        "Panera Bread": {
+            "price": 2,
+            "healthiness": 4,
+            "type": "Bakery"
+        },
+        "Texas Roadhouse": {
+            "price": 3,
+            "healthiness": 2,
+            "type": "Steakhouse"
+        },
+        "Shake Shack": {
+            "price": 2,
+            "healthiness": 2,
+            "type": "Burger"
+        },
+        "Sweetgreen": {
+            "price": 2,
+            "healthiness": 5,
+            "type": "Salad"
+        },
+        "Red Lobster": {
+            "price": 3,
+            "healthiness": 3,
+            "type": "Seafood"
+        },
+        "In-N-Out Burger": {
+            "price": 1,
+            "healthiness": 2,
+            "type": "Burger"
+        },
+        "Chick-fil-A": {
+            "price": 1,
+            "healthiness": 3,
+            "type": "Chicken"
+        },
+        "PF Chang's": {
+            "price": 3,
+            "healthiness": 3,
+            "type": "Asian Fusion"
+        },
+        "Nando's": {
+            "price": 3,
+            "healthiness": 3,
+            "type": "Portuguese"
+        },
+        "Zoe's Kitchen": {
+            "price": 2,
+            "healthiness": 4,
+            "type": "Mediterranean"
+        },
+        "Buffalo Wild Wings": {
+            "price": 2,
+            "healthiness": 2,
+            "type": "Wings"
+        },
+        "Outback Steakhouse": {
+            "price": 3,
+            "healthiness": 2,
+            "type": "Steakhouse"
+        },
+        "Domino's Pizza": {
+            "price": 1,
+            "healthiness": 1,
+            "type": "Pizza"
+        },
+        "Sushi Train": {
+            "price": 3,
+            "healthiness": 2,
+            "type": "Japanese"
+        },
+        "Nobu": {
+            "price": 5,
+            "healthiness": 4,
+            "type": "Japanese"
+        },
+        "Whole Foods Market": {
+            "price": 4,
+            "healthiness": 5,
+            "type": "Healthy"
+        },
+        "True Food Kitchen": {
+            "price": 4,
+            "healthiness": 5,
+            "type": "Healthy"
+        },
+        "Ruth's Chris Steak House": {
+            "price": 5,
+            "healthiness": 3,
+            "type": "Steakhouse"
+        },
+        "Seasons 52": {
+            "price": 4,
+            "healthiness": 5,
+            "type": "American"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Alice Johnson":
+    [
+        {"restaurant": "Olive Garden", "time": "2024-06-21T12:34:56", "swiped_right": true},
+        {"restaurant": "Texas Roadhouse", "time": "2024-06-21T13:45:22", "swiped_right": true},
+        {"restaurant": "Sweetgreen", "time": "2024-06-21T14:30:00", "swiped_right": true},
+        {"restaurant": "Panera Bread", "time": "2024-06-21T15:15:12", "swiped_right": true},
+        {"restaurant": "Ruth's Chris Steak House", "time": "2024-06-21T16:05:45", "swiped_right": true},
+        {"restaurant": "Chipotle", "time": "2024-06-21T17:00:30", "swiped_right": false},
+        {"restaurant": "McDonald's", "time": "2024-06-21T18:22:14", "swiped_right": false},
+        {"restaurant": "Red Lobster", "time": "2024-06-21T19:10:05", "swiped_right": true},
+        {"restaurant": "Nando's", "time": "2024-06-21T20:45:33", "swiped_right": true},
+        {"restaurant": "Chick-fil-A", "time": "2024-06-21T21:30:47", "swiped_right": false},
+        {"restaurant": "PF Chang's", "time": "2024-06-21T22:15:19", "swiped_right": false},
+        {"restaurant": "Zoe's Kitchen", "time": "2024-06-21T23:00:55", "swiped_right": true},
+        {"restaurant": "Buffalo Wild Wings", "time": "2024-06-22T10:05:11", "swiped_right": false},
+        {"restaurant": "Outback Steakhouse", "time": "2024-06-22T11:45:30", "swiped_right": true},
+        {"restaurant": "Domino's Pizza", "time": "2024-06-22T12:30:44", "swiped_right": false},
+        {"restaurant": "Panera Bread", "time": "2024-06-22T13:15:28", "swiped_right": true},
+        {"restaurant": "Nobu", "time": "2024-06-22T14:05:12", "swiped_right": true},
+        {"restaurant": "Whole Foods Market", "time": "2024-06-22T15:20:47", "swiped_right": true},
+        {"restaurant": "True Food Kitchen", "time": "2024-06-22T16:35:05", "swiped_right": true},
+        {"restaurant": "Seasons 52", "time": "2024-06-22T17:50:19", "swiped_right": true}
+        
+    ]
+}
